@@ -2,7 +2,7 @@
   "short_name": "Sphere Glide",
   "name": "Sphere Glide Game",
   "display": "standalone",
-  "start_url": "./",
+  "start_url": "./golden-sphere-glide",
   "theme_color": "#000000",
   "background_color": "#ffffff",
   "icons": [
